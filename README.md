@@ -5,6 +5,6 @@ Currently we're trying to implement Strassan matrix multiplication, which requir
 
 <h6>requires:</h6>
 
-	<ul>
-		<li>MPI</li>
-	</ul>
+<ul>
+	<li>MPI</li>
+</ul>
