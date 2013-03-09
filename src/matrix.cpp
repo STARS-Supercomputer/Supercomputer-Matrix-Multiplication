@@ -28,9 +28,9 @@ public:
 	~matrix();
 
 	void push_back_col(TYPE* i);
-	TYPE*& pop_back_col();
+	TYPE* pop_back_col();
 	void push_bottom_row(TYPE* i);
-	TYPE*& pop_bottom_row();
+	TYPE* pop_bottom_row();
 
 	TYPE& at(const size_type& row, const size_type& col);
 	TYPE*& operator[](const size_type& i);
